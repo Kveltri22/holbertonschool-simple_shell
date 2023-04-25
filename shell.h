@@ -1,6 +1,8 @@
 #ifndef SHELL_H
 #define SHELL_H
 
+void no_more_betty(void);
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
